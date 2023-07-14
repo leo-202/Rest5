@@ -1,0 +1,100 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "category_id": "1",
+      "title": "Lobster Bisque",
+      "price": "$8.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/lobster-bisque.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "2",
+      "category_id": "2",
+      "title": "Bread Barrel",
+      "price": "$6.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/tuscan-grilled.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "3",
+      "category_id": "1",
+      "title": "Crab Cake",
+      "price": "$5.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/cake.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "4",
+      "category_id": "1",
+      "title": "Caesar Selections",
+      "price": "$8.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/caesar.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "5",
+      "category_id": "1",
+      "title": "Tuscan Grilled",
+      "price": "$6.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/mozzarella.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "6",
+      "category_id": "1",
+      "title": "Mozzarella Stick",
+      "price": "$4.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/spinach-salad.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "7",
+      "category_id": "1",
+      "title": "Lobster Roll",
+      "price": "$5.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/lobster-roll.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "8",
+      "category_id": "1",
+      "title": "Greek Salad",
+      "price": "$9.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/greek-salad.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "id": "9",
+      "category_id": "1",
+      "title": "Bread Barrel",
+      "price": "$5.95",
+      "thumbnail": "https://bootstrapmade.com/demo/templates/Restaurantly/assets/img/menu/bread-barrel.jpg",
+      "quote": "Lorem, deren, trataro, filede, nerada",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    }
+  ],
+
+  "category": [
+    {
+      "id": 1,
+      "category_name": "Starters"
+    },
+    {
+      "id": 2,
+      "category_name": "Salads"
+    },
+    {
+      "id": 3,
+      "category_name": "Specialty"
+    }
+  ]
+}
